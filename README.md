@@ -14,6 +14,7 @@
 
 | Status             | Project Names         |
 | ------------------ | --------------------- |
+| :white_check_mark: | To Do List            |
 | :white_check_mark: | Tic Tac Toe Games     |
 | :white_check_mark: | CountDown Timer       |
 | :white_check_mark: | BMI Calculator        |
