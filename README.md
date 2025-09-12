@@ -6,7 +6,7 @@
 
 ### Live Project link
 
-## https://vanilla-javascript-mini-projects.vercel.app/
+## https://vanilla-javascript-projects-mk.vercel.app/
 
 ---
 
@@ -15,6 +15,7 @@
 | Status             | Project Names         |
 | ------------------ | --------------------- |
 | :white_check_mark: | To Do List            |
+| :white_check_mark: | Weather App           |
 | :white_check_mark: | Tic Tac Toe Games     |
 | :white_check_mark: | CountDown Timer       |
 | :white_check_mark: | BMI Calculator        |
