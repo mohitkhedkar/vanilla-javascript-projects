@@ -22,6 +22,7 @@
 | :white_check_mark: | Income Tax Calculator |
 | :white_check_mark: | Image Slideshow       |
 | :white_check_mark: | Color Scheme Switcher |
+|                    |                       |
 
 ## License
 
